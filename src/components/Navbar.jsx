@@ -33,7 +33,7 @@ const navbarStyles = css`
     li {
       text-transform: uppercase;
       font-size: 1rem;
-      font-weight: 600;
+      font-weight: 500;
       margin: 0 0.625rem;
       cursor: pointer;
     }
